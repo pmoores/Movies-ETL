@@ -1,7 +1,7 @@
 # Module 8 Challenge - Extract-Transform-Load
 
 ## Project Overview
-The purpose of this project is to create an automated pipeline that takes in new movie data, performs the appropriate transformations, and loads the data into existing tables.
+The purpose of this challenge is to create an automated pipeline that takes in new movie data, performs the appropriate transformations, and loads the data into existing tables.
 
 ## Deliverables
 
@@ -11,5 +11,7 @@ The purpose of this project is to create an automated pipeline that takes in new
 
 3. [ETL_clean_kaggle_movies.ipynb](https://github.com/pmoores/Movies-ETL/blob/main/ETL-clean-kaggle-data.ipynb)
 
-4. 
+4. [ETL-create_database.ipynb](https://github.com/pmoores/Movies-ETL/blob/main/ETL-create_database.ipynb)
+
+5. 
 
