@@ -13,5 +13,11 @@ The purpose of this challenge is to create an automated pipeline that takes in n
 
 4. [ETL-create_database.ipynb](https://github.com/pmoores/Movies-ETL/blob/main/ETL-create_database.ipynb)
 
-5. 
+5. Wikipedia movies json (missing)
+
+6. Movies metadata.csv (missing)
+
+7. [movies_query.png](https://github.com/pmoores/Movies-ETL/blob/main/Resources/movies_query.png)
+
+8. [ratings_query.png](https://github.com/pmoores/Movies-ETL/blob/main/Resources/ratings_query.png)
 
